@@ -1,6 +1,6 @@
 # Django Customer Managemt 
 
-Backend REST API for [Android Application](https://github.com/ImAliMoussa/MedicalCenterAndroid)  , [Repository Link](https://github.com/ImAliMoussa/MedicalCenterAndroid) 
+Youtube tutorial
 
 ## Getting Started  
 ### Installing Dependencies  
@@ -22,8 +22,6 @@ This will install all of the required packages we selected within the `requireme
 ##### Key Dependencies  
 - [Django](https://www.djangoproject.com/)  is a backend framework. Django is required to handle requests and responses.
 
-- [Django-rest-framework](https://www.django-rest-framework.org/) Django REST framework is a powerful and flexible toolkit for building Web APIs.
-
 
 ## Running the server  
 From within the `MedicalInsurance` directory first ensure you are working using your created virtual environment.
@@ -41,26 +39,4 @@ To run the server, execute:
 
 ```bash
 python manage.py runserver
-```
-
-
-
-## API Endpoints Documentation
-
-### Allowed HTTPs requests :
-```   
-GET
-POST       
-DELETE   
-```
-### Endpoints :
-```
-GET 'hospitals/'
-GET 'hospitals/<pk>'
-POST 'hospitals/'
-DELETE 'hospitals/<pk>'
-GET 'clinics/'
-GET 'clinics/<pk>'
-POST 'clinics/'
-DELETE 'clinics/<pk>'
 ```
