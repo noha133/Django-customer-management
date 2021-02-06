@@ -24,7 +24,7 @@ This will install all of the required packages we selected within the `requireme
 
 
 ## Running the server  
-From within the `MedicalInsurance` directory first ensure you are working using your created virtual environment.
+From within the `customermanagement` directory first ensure you are working using your created virtual environment.
 
 To run the server, execute:
 #### Mac , Linux
